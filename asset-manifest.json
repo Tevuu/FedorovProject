@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FedorovProject/static/css/main.b9c72453.css",
-    "main.js": "/FedorovProject/static/js/main.247dd62e.js",
+    "main.css": "/FedorovProject/static/css/main.ac617cd9.css",
+    "main.js": "/FedorovProject/static/js/main.7ee8646a.js",
     "static/media/6.jpg": "/FedorovProject/static/media/6.c8a9453cf55b3ba1742f.jpg",
     "static/media/2.jpg": "/FedorovProject/static/media/2.90486cef3627da0cc891.jpg",
     "static/media/7.jpg": "/FedorovProject/static/media/7.0f3328958c3ab85509f6.jpg",
@@ -10,11 +10,11 @@
     "static/media/4.jpg": "/FedorovProject/static/media/4.e380356bc7b48829aad3.jpg",
     "static/media/3.jpg": "/FedorovProject/static/media/3.93ebaf0a6a20aa0755c0.jpg",
     "index.html": "/FedorovProject/index.html",
-    "main.b9c72453.css.map": "/FedorovProject/static/css/main.b9c72453.css.map",
-    "main.247dd62e.js.map": "/FedorovProject/static/js/main.247dd62e.js.map"
+    "main.ac617cd9.css.map": "/FedorovProject/static/css/main.ac617cd9.css.map",
+    "main.7ee8646a.js.map": "/FedorovProject/static/js/main.7ee8646a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9c72453.css",
-    "static/js/main.247dd62e.js"
+    "static/css/main.ac617cd9.css",
+    "static/js/main.7ee8646a.js"
   ]
 }
